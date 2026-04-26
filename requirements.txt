@@ -1,0 +1,9 @@
+aiohttp
+aiofiles
+pyjwt
+cryptography
+pycryptodome
+protobuf
+protobuf_decoder
+flask
+urllib3
